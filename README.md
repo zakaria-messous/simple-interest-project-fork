@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+
+Simple Interest Calculator" → "Simple Interest Calculator Project"
